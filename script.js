@@ -8,7 +8,10 @@ var memes = [
   "7.jpg",
   "8.png",
   "9.jpg",
-  "10.png"
+  "10.png",
+  "11.jpg",
+  "12.jpg",
+  "13.jpg"
   ]
 
 function loadmemes(element) {
